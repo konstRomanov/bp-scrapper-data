@@ -1162,3 +1162,9 @@
 {"ticker": "AMZN", "price": 88.396, "date": 1668004822}
 {"ticker": "AAPL", "price": 137.55, "date": 1668004817}
 {"ticker": "GOOGL", "price": 88.45, "date": 1668004820}
+{"ticker": "GOOGL", "price": 88.51, "date": 1668005674}
+{"ticker": "AMZN", "price": 87.98, "date": 1668005675}
+{"ticker": "NFLX", "price": 256.86, "date": 1668005671}
+{"ticker": "META", "price": 102.45, "date": 1668005671}
+{"ticker": "^GSPC", "price": 3799.3, "date": 1668005675}
+{"ticker": "AAPL", "price": 137.23, "date": 1668005671}
