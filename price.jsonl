@@ -1522,3 +1522,6 @@
 {"ticker": "GOOGL", "price": 96.28, "date": 1668182052}
 {"ticker": "AAPL", "price": 148.34, "date": 1668182061}
 {"ticker": "META", "price": 113.42, "date": 1668182051}
+{"ticker": "AAPL", "price": 148.085, "date": 1668182973}
+{"ticker": "^GSPC", "price": 3965.53, "date": 1668182977}
+{"ticker": "GOOGL", "price": 96.24, "date": 1668182976}
